@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @iamzizi16
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Zizi
 
-<!---
-iamzizi16/iamzizi16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 **Interests:** Web Development, UI/UX Design, and Open Source Projects  
+- 🌱 **Currently Learning:** JavaScript, React.js, and Tailwind CSS  
+- 💞️ **Collaboration:** Always open to work on creative and innovative projects  
+- 📫 **Reach Me:** [Email](mailto:febrianrifky@gmail.com) | [LinkedIn](https://linkedin.com/in/rifky-f-534639323)  
+- 😄 **Pronouns:** She/Her *(atau sesuai lo)*  
+- ⚡ **Fun Fact:** I can code for hours without realizing I skipped lunch 🚀  
+
+---
+💡 *"Code is like humor. When you have to explain it, it’s bad."*
